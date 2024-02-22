@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Kanyakumari</h2>
+<p>Sunrise and Sunset Destination</p>
+<p>Kanyakumari is a unique destination worth visiting.</p>
+
+<button onclick="document.getElementById('my image').src='https://i.pinimg.com/originals/af/01/08/af01089e02585a413f8526d18b0d05c3.jpg'">Sunrise</button>
+
+<img id="my image" src="https://wallpaperaccess.com/full/2170956.jpg" style="width:100px">
+
+<button onclick="document.getElementById('my image').src='https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/sunset-point-in-kanyakumari-tamil-nadu-201710-1509103358.jpg'">Sunset</button>
+
+</body>
+</html>
